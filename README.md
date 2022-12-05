@@ -7,3 +7,4 @@ Language of choice is Python 3.
 * [Day 2 - day02.ipynb](day02.ipynb)
 * [Day 3 - day03.ipynb](day03.ipynb)
 * [Day 4 - day04.ipynb](day04.ipynb)
+* [Day 5 - day05.ipynb](day05.ipynb)
