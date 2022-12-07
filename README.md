@@ -9,3 +9,4 @@ Language of choice is Python 3.
 * [Day 4 - day04.ipynb](day04.ipynb)
 * [Day 5 - day05.ipynb](day05.ipynb)
 * [Day 6 - day06.ipynb](day06.ipynb)
+* [Day 7 - day07.ipynb](day07.ipynb)
