@@ -8,6 +8,10 @@ pandas = "*"
 jupyter = "*"
 jupyterlab = "*"
 numpy = "*"
+igraph = "*"
+matplotlib = "*"
+anytree = "*"
+tqdm = "*"
 
 [dev-packages]
 
